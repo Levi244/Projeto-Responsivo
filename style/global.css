@@ -13,7 +13,8 @@ a {
     color: inherit;
 }
 
-#hero {
+#hero, #tree, .links,
+.buttons .button .a{
     display: flex;
     justify-content: center;
     align-items: center;
