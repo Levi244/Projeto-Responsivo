@@ -2,5 +2,16 @@
     border: 1px solid red;
     width: 100%;
     height: 50vh;
-
+    flex-direction: column;
+    text-align: center;
+}
+#hero div {
+    width: 8rem;
+    height: 8rem;
+    object-position: center;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#hero div img {
+    width: 100%;
 }
